@@ -1,0 +1,20 @@
+# IDE 配置
+.idea/
+*.iml
+
+# CMake 构建目录
+cmake-build-*/
+build/
+
+# 编译产物
+bin/
+*.exe
+*.a
+*.so
+*.dll
+*.o
+*.out
+
+# 其他临时文件
+*.log
+*.cache
